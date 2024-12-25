@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working on in
 - **Languages:** HTML, CSS, JavaScript, Python
 - **Frameworks:** React
 - **Tools:** Git
-- **Databases:** MySQL, MongoDB, Supabase
+- **Databases:** MySQL, Supabase
 
 ## 📚 What I'm currently learning
 
